@@ -28,7 +28,7 @@ import groovy.transform.Field
 metadata {
     definition (
         name: "Hunter Douglas PowerView Shade", 
-        namespace: "rifraf650", 
+        namespace: "johnvey", 
         author: "Johnvey Hwang, ported by Steve Borenstein"
     ) {
         // tags
