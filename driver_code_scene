@@ -25,7 +25,7 @@
 metadata {
     definition (
         name: "Hunter Douglas PowerView Scene", 
-        namespace: "rifraf650", 
+        namespace: "johnvey", 
         author: "Johnvey Hwang ported by Steve Borenstein"
     ) {
         // tags
