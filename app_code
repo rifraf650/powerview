@@ -19,7 +19,7 @@
 
 definition(
   name: "Hunter Douglas PowerView",
-  namespace: "johnvey",
+  namespace: "rifraf650",
   author: "Johnvey Hwang, Ported by Steve Borestein",
   description: "Controls shades and scenes managed by your PowerView hub",
   category: "My Apps",
